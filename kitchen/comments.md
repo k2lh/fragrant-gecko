@@ -1,10 +1,8 @@
 explanation of columns to right of floorplans A-E
 
-A: layout #
-
-24/30: linear feet of contiguous countertop / linear feet of total countertop
-
-14: linear feet of cabinetry (under countertops)
+- A: layout #
+- 24/30: linear feet of contiguous countertop / linear feet of total countertop
+- 14: linear feet of cabinetry (under countertops)
 
 the yellow boxes are the 'continugous countertop area' while the uncolored boxes are countertop space broken into sections (ie <24" sections either side of sink)
 
